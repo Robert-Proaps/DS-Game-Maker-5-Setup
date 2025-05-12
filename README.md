@@ -85,7 +85,7 @@ Congrats! If you have no errors you're ready to start building Nintendo DS games
 <br>
 
 # DSGM Knowlegde Resources!
-![banner_DsgmKnowlegdeResources](https://user-images.githubusercontent.com/106634287/173729565-1b842d40-cd44-4376-91d4-6eb6a5515957.png)
+![banner_DsgmKnowlegdeResources](https://user-images.githubusercontent.com/106634287/173729565-1b842d40-cd44-4376-91d4-6eb6a5515957.png)](https://digitaldesigndude.github.io/DSGM-Resource-Site/index.html)
 <br>
 <br>
 
